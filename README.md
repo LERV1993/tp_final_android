@@ -16,7 +16,7 @@ Las llamadas a la aplicación se realizan con retrofit2.
 
 ## Integrantes del grupo
 
-- [@Gaston Murua](https://github.com)
+- [@Gaston Murua](https://github.com/JGastonMurua)
 - [@Gabriel Pettinari](https://github.com/GabrielPetty)
 - [@German Ponzio](https://github.com/geerzio)
 - [@Lucas Ruiz](https://github.com/LERV1993)
